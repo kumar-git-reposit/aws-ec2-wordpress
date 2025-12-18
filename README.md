@@ -3,10 +3,10 @@ WordPress deployment on AWS EC2 with Apache, MySQL, PHP, IAM roles, and S3 integ
 
 # WordPress Deployment on AWS EC2
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates how to deploy WordPress on an AWS EC2 instance using Ubuntu, Apache, MySQL, and PHP. It also includes IAM role configuration and S3 integration for secure media storage and backups.
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - AWS EC2 (Ubuntu)
 - Apache Web Server
 - MySQL Database
@@ -15,7 +15,7 @@ This project demonstrates how to deploy WordPress on an AWS EC2 instance using U
 - IAM Roles & Policies
 - S3 Bucket
 
-## 🚀 Steps Implemented
+##  Steps Implemented
 1. Launched EC2 instance with Ubuntu 22.04
 2. Installed Apache, MySQL, PHP (LAMP stack)
 3. Downloaded and configured WordPress
